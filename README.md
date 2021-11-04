@@ -6,4 +6,4 @@ html
 css 
 js 
 
-hosted at https://sanketmuchhala.github.io/
+hosted at https://sanketmuchhala.tk/mark1.github.io/
